@@ -6,6 +6,9 @@ colorsys-go is a go package(or lib) for everyone to
 transform one color system to another. The transformation 
 is among RGB, YIQ, HLS and HSV.
 
+The repertory [MosaicImage](https://github.com/cckuailong/MosaicImage) 
+has use the package correctly.
+
 ## Install
 
 ```
